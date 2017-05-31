@@ -1,0 +1,13 @@
+NAME		DESIGNATION
+Matt Bowman	BFO President	Northern Director
+Joe Hill	BFO Vice President	Feedlot Director
+Jason Reid	Cow-Calf Director
+Craig McLaughlin	Cow-Calf Director
+Dave Cavanagh	Cow-Calf Director
+Rob Lipsett	Background Director
+Jack Chaffe	Feedlot Director
+Tom Wilson	Feedlot Director
+Garnet Toms	Eastern Director
+Cory Van Groningen	Southern Director
+Tim Fugard	At-Large Director
+Kim Sytsma	At-Large Director
